@@ -1,6 +1,2 @@
 This is a test
-<<<<<<< HEAD
- ;lakjsdfkas';oasdflkmnfasd
-=======
 kasdfm,sdfakmdfsak,mdfsam,.fdsa,m.fds
->>>>>>> 33d57040029f1cfce06adb8f49fdfef8fbdf3dce
